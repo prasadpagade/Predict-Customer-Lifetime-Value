@@ -1,0 +1,53 @@
+[
+  {
+    "id": "DS-101",
+    "title": "Data Scientist",
+    "company": "Insight Analytics",
+    "location": "Remote - US",
+    "type": "Full-time",
+    "summary": "Work with cross-functional teams to build predictive models and deliver actionable insights.",
+    "skills": ["Python", "Machine Learning", "SQL", "Statistics", "Data Visualization"],
+    "tools": ["scikit-learn", "TensorFlow", "Tableau"],
+    "experience_level": "Mid",
+    "description": "The Data Scientist will collaborate with product and engineering teams to design experiments, build predictive models, and communicate findings to stakeholders.",
+    "responsibilities": [
+      "Develop machine learning models for customer segmentation and churn prediction",
+      "Design and analyze A/B tests",
+      "Present insights to technical and non-technical audiences"
+    ]
+  },
+  {
+    "id": "DE-204",
+    "title": "Data Engineer",
+    "company": "Pipeline Pros",
+    "location": "Austin, TX (Hybrid)",
+    "type": "Full-time",
+    "summary": "Build scalable data pipelines and analytics infrastructure.",
+    "skills": ["Python", "SQL", "Airflow", "ETL", "AWS"],
+    "tools": ["dbt", "Redshift", "Docker"],
+    "experience_level": "Senior",
+    "description": "The Data Engineer will design, build, and maintain data pipelines to support analytics and machine learning workloads.",
+    "responsibilities": [
+      "Implement batch and streaming data pipelines",
+      "Manage data warehouse models",
+      "Collaborate with analytics teams to improve data quality"
+    ]
+  },
+  {
+    "id": "PM-301",
+    "title": "Product Manager, Analytics",
+    "company": "Visionary Products",
+    "location": "New York, NY",
+    "type": "Full-time",
+    "summary": "Lead roadmap planning for analytics products and define success metrics.",
+    "skills": ["Product Management", "Analytics", "Stakeholder Management", "A/B Testing", "Roadmapping"],
+    "tools": ["JIRA", "Mixpanel", "Looker"],
+    "experience_level": "Mid",
+    "description": "Own the product vision for analytics tooling and partner with design, engineering, and marketing to launch impactful features.",
+    "responsibilities": [
+      "Define product strategy and OKRs",
+      "Collaborate with engineering on feature delivery",
+      "Conduct user research and synthesize feedback"
+    ]
+  }
+]
